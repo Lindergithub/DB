@@ -11,7 +11,7 @@
 ## 課程筆記區
 ### [DB repo]()
 ### PPT
-> + [week1]()
+> + [week1](https://docs.google.com/presentation/d/1CP0D92DA8Ae8oyIKSquqUuTUpVqwLGT-14T32l9pf5U/edit#slide=id.g2410febba22_0_9)
 > [Video]()
 > + [week2]()
 > [Video]()
