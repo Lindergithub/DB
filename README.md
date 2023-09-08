@@ -12,7 +12,7 @@
 ### [DB repo](https://docs.google.com/spreadsheets/d/1Q7xZrNQcNulzj7rhAGlexjkjkXMrw-MnCfyo7CtSp_o/edit#gid=847386397)
 ### PPT
 > + [week1](https://docs.google.com/presentation/d/1CP0D92DA8Ae8oyIKSquqUuTUpVqwLGT-14T32l9pf5U/edit#slide=id.g2410febba22_0_9)
-> [Video]()
+> [Video](https://youtu.be/idhUbF1req4?si=R2vEFacyfHN5T-U6)
 > + [week2]()
 > [Video]()
 > + [week3]()
