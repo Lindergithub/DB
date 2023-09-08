@@ -3,11 +3,11 @@
 ## class information
 > + Teacher：蔡芸琤
 > + Name：林鈺茹
-> + Grade：科技系114年級
-## Content
+> + Department and Grade：科技系114年級
+## Index
 > + [Notes]()
 > + [Homework]()
-> + [Final presentation]()
+> + [Final Project]()
 ## Notes
 ### [DB repo](https://docs.google.com/spreadsheets/d/1Q7xZrNQcNulzj7rhAGlexjkjkXMrw-MnCfyo7CtSp_o/edit#gid=847386397)
 ### PPT
@@ -25,6 +25,6 @@
 + [HW3]()
 + [HW4]()
 + [HW5]()
-## Final presentation
+## Final Project
 + [ppt]()
 + [vedio]()
