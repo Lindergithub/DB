@@ -1,6 +1,6 @@
 # 112-1 Database Systems
 
-## class information
+## Class Information
 > + Teacher：蔡芸琤
 > + Name：林鈺茹
 > + Department and Grade：科技系114年級
