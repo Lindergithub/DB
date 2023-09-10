@@ -6,8 +6,8 @@
 > + Department and Grade：科技系114年級
 ## Index
 > + [Notes](https://github.com/Lindergithub/DB/blob/main/README.md#index)
-> + [Homework]()
-> + [Final Project]()
+> + [Homework](https://github.com/Lindergithub/DB/tree/main#notes)
+> + [Final Project](https://github.com/Lindergithub/DB/tree/main#finalproject)
 ## Notes
 ### [DB repo](https://docs.google.com/spreadsheets/d/1Q7xZrNQcNulzj7rhAGlexjkjkXMrw-MnCfyo7CtSp_o/edit#gid=847386397)
 ### PPT
