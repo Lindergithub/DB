@@ -11,29 +11,24 @@
 ## Notes
 ### [DB repo](https://docs.google.com/spreadsheets/d/1Q7xZrNQcNulzj7rhAGlexjkjkXMrw-MnCfyo7CtSp_o/edit#gid=847386397)
 ### PPT
-> + [week1](https://docs.google.com/presentation/d/1CP0D92DA8Ae8oyIKSquqUuTUpVqwLGT-14T32l9pf5U/edit#slide=id.g2410febba22_0_9)
-> [Video](https://youtu.be/idhUbF1req4?si=R2vEFacyfHN5T-U6)
-> + [week2]()
-> [Video]()
-> + [week3]()
-> [Video]()
+> + [week1](https://docs.google.com/presentation/d/1CP0D92DA8Ae8oyIKSquqUuTUpVqwLGT-14T32l9pf5U/edit#slide=id.g2410febba22_0_9) & [Video](https://youtu.be/idhUbF1req4?si=R2vEFacyfHN5T-U6)
+> + [week2]() & [Video]()
+> + [week3]() & [Video]()
 
 
 ## Homework
-+ [HW1]()
-+ 參考資料：
-https://www.byperth.com/2018/04/19/guide-building-data-science-web-application-with-react-nodejs-and-mysql/
+#### [HW1](https://youtu.be/fMhPyYBAz6M)
+> References：
+> + [React, NodeJS, and MySQL](https://www.byperth.com/2018/04/19/guide-building-data-science-web-application-with-react-nodejs-and-mysql/)
+> + [Client-server](https://madooei.github.io/cs421_sp20_homepage/client-server-app/)
+> + [Client-server in Chinese](https://hackmd.io/@Willie-The-Lord/BJ7ZP2hgY)
 
-https://madooei.github.io/cs421_sp20_homepage/client-server-app/
-
-https://hackmd.io/@Willie-The-Lord/BJ7ZP2hgY
-
-參考影片：
-https://www.youtube.com/watch?v=re3OIOr9dJI
-+ [HW2]()
-+ [HW3]()
-+ [HW4]()
-+ [HW5]()
+> References Video：
+> + [Beginners CRUD Tutorial - ReactJS, MySQL, NodeJS](https://www.youtube.com/watch?v=re3OIOr9dJI)
+#### [HW2]()
+#### [HW3]()
+#### [HW4]()
+#### [HW5]()
 ## Final Project
-+ [ppt]()
-+ [vedio]()
+#### [ppt]()
+#### [vedio]()
