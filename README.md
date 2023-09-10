@@ -5,7 +5,7 @@
 > + Name：林鈺茹
 > + Department and Grade：科技系114年級
 ## Index
-> + [Notes](https://github.com/Lindergithub/DB/blob/main/README.md#notes)
+> + [Notes]()
 > + [Homework](https://github.com/Lindergithub/DB/edit/main/README.md#notes)
 > + [Final Project](https://github.com/Lindergithub/DB/edit/main/README.md#db-repo)
 ## Notes
