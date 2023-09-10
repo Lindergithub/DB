@@ -21,6 +21,15 @@
 
 ## Homework
 + [HW1]()
++ 參考資料：
+https://www.byperth.com/2018/04/19/guide-building-data-science-web-application-with-react-nodejs-and-mysql/
+
+https://madooei.github.io/cs421_sp20_homepage/client-server-app/
+
+https://hackmd.io/@Willie-The-Lord/BJ7ZP2hgY
+
+參考影片：
+https://www.youtube.com/watch?v=re3OIOr9dJI
 + [HW2]()
 + [HW3]()
 + [HW4]()
