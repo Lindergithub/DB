@@ -14,7 +14,8 @@
 > + [week1](https://docs.google.com/presentation/d/1CP0D92DA8Ae8oyIKSquqUuTUpVqwLGT-14T32l9pf5U/edit#slide=id.g2410febba22_0_9) & [Video](https://youtu.be/idhUbF1req4?si=R2vEFacyfHN5T-U6)
 > + [week2](https://docs.google.com/presentation/d/1amn8pDX2Wx4N6ZjzhCGoQFJH4DqaRcQ2DJAdg3hbIrA/edit#slide=id.g23dd2219a46_0_124) & [Video](https://www.youtube.com/watch?v=qGaGgdm_YtY)
 > + 參訪
-> + [week4](https://docs.google.com/presentation/d/1053jwkOvLAdeQCDUJKq-c0NwxB3jOqlkiL244y0DPro/edit#slide=id.g24725b3e1c1_0_277) & [Video]()
+> + [week4](https://docs.google.com/presentation/d/1053jwkOvLAdeQCDUJKq-c0NwxB3jOqlkiL244y0DPro/edit#slide=id.g24725b3e1c1_0_277) & [Video](https://www.youtube.com/watch?v=YjItfF4FkIo)
+> + [week5](https://docs.google.com/presentation/d/1J0ASP97LgjTQeKqTdm1vRhxh6MGya-C1D-8w7ykUPqE/edit#slide=id.g23dd2219a46_0_124) & [Video]()
 
 
 ## Homework
