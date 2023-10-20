@@ -15,8 +15,10 @@
 > + [week2](https://docs.google.com/presentation/d/1amn8pDX2Wx4N6ZjzhCGoQFJH4DqaRcQ2DJAdg3hbIrA/edit#slide=id.g23dd2219a46_0_124) & [Video](https://www.youtube.com/watch?v=qGaGgdm_YtY)
 > + 參訪
 > + [week4](https://docs.google.com/presentation/d/1053jwkOvLAdeQCDUJKq-c0NwxB3jOqlkiL244y0DPro/edit#slide=id.g24725b3e1c1_0_277) & [Video](https://www.youtube.com/watch?v=YjItfF4FkIo)
-> + [week5](https://docs.google.com/presentation/d/1J0ASP97LgjTQeKqTdm1vRhxh6MGya-C1D-8w7ykUPqE/edit#slide=id.g23dd2219a46_0_124) & [Video]()
-
+> + [week5](https://docs.google.com/presentation/d/1J0ASP97LgjTQeKqTdm1vRhxh6MGya-C1D-8w7ykUPqE/edit#slide=id.g23dd2219a46_0_124) & [Video](https://www.youtube.com/watch?v=SkouS0krH98)
+> + [week6]()
+> + [week7](https://docs.google.com/presentation/d/1VGS4z-40x0ZS8baC3PHP4TBLZn3S3YEe9owg4_vIZWc/edit#slide=id.g23dd2219a46_0_124) & [Video](https://www.youtube.com/watch?v=ukF48qw2LM8)
+> + [week8](https://docs.google.com/presentation/d/1VGS4z-40x0ZS8baC3PHP4TBLZn3S3YEe9owg4_vIZWc/edit#slide=id.g23dd2219a46_0_124)
 
 ## Homework
 #### [HW1](https://youtu.be/fMhPyYBAz6M)
