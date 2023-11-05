@@ -30,6 +30,7 @@
 > References Video：
 > + [Beginners CRUD Tutorial - ReactJS, MySQL, NodeJS](https://www.youtube.com/watch?v=re3OIOr9dJI)
 #### [HW1](https://youtu.be/DUsJ380Z8x8)
+![ERD](erd.jpg)
 #### [HW2]()
 #### [HW3]()
 #### [HW4]()
