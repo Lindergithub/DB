@@ -19,9 +19,9 @@
 > + [week6]()
 > + [week7](https://docs.google.com/presentation/d/1VGS4z-40x0ZS8baC3PHP4TBLZn3S3YEe9owg4_vIZWc/edit#slide=id.g23dd2219a46_0_124) & [Video](https://www.youtube.com/watch?v=ukF48qw2LM8)
 > + [week8](https://docs.google.com/presentation/d/1VGS4z-40x0ZS8baC3PHP4TBLZn3S3YEe9owg4_vIZWc/edit#slide=id.g23dd2219a46_0_124)
-
+> + [week9](https://docs.google.com/presentation/d/1g1mkza7Uufm9A4fwRI_fJRAcWf-QTFf9Jn00I8iiLM0/edit#slide=id.g23dd2219a46_0_124) & [Video1](https://www.youtube.com/watch?v=yw8yP0eAKDs)[Video2](https://www.youtube.com/watch?v=JE0E4G73OjQ)
 ## Homework
-#### [HW1](https://youtu.be/fMhPyYBAz6M)
+#### [HW0](https://youtu.be/fMhPyYBAz6M)
 > References：
 > + [React, NodeJS, and MySQL](https://www.byperth.com/2018/04/19/guide-building-data-science-web-application-with-react-nodejs-and-mysql/)
 > + [Client-server](https://madooei.github.io/cs421_sp20_homepage/client-server-app/)
@@ -29,6 +29,7 @@
 
 > References Video：
 > + [Beginners CRUD Tutorial - ReactJS, MySQL, NodeJS](https://www.youtube.com/watch?v=re3OIOr9dJI)
+#### [HW1](https://youtu.be/DUsJ380Z8x8)
 #### [HW2]()
 #### [HW3]()
 #### [HW4]()
